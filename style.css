@@ -12,6 +12,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  font-family:inter;
+}
+
 :root {
   --primary: #f19138;
   --primary-light: #ffccd5;
