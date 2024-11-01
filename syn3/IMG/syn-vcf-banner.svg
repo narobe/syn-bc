@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="360" viewBox="0 0 430 360">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-syn-vcf-banner);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 44px;
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 19px;
+        font-family: Inter;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.073" y1="0.061" x2="1.313" y2="1.203" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f19138"/>
+      <stop offset="1" stop-color="#fc5c76"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-4.323" y1="4.466" x2="0.761" y2="4.584" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc5c76"/>
+      <stop offset="1" stop-color="#f19138"/>
+    </linearGradient>
+    <clipPath id="clip-syn-vcf-banner">
+      <rect width="430" height="360"/>
+    </clipPath>
+  </defs>
+  <g id="syn-vcf-banner" class="cls-1">
+    <rect class="cls-5" width="430" height="360"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" class="cls-2" width="430" height="360"/>
+    <g id="Group_1113" data-name="Group 1113" transform="translate(0 -29)">
+      <text id="Syndicat" class="cls-3" transform="translate(201 183)"><tspan x="0" y="0">Syndicat</tspan></text>
+      <text id="Website_developement" data-name="Website developement" class="cls-4" transform="translate(201 222)"><tspan x="0" y="0">Website developement</tspan></text>
+    </g>
+    <g id="Group_1112" data-name="Group 1112" transform="translate(-283.29 -107)">
+      <rect id="Rectangle_72" data-name="Rectangle 72" class="cls-5" width="178" height="178" rx="89" transform="translate(297.29 172)"/>
+      <g id="Group_8_orange" data-name="Group 8 orange" transform="translate(350.164 192.187)">
+        <path id="Path_40" data-name="Path 40" class="cls-6" d="M2638.714,319.407s-.331,2.264-5.255,5.168-14.959,7.146-14.959,7.146l7.491,4.114s7.323-3.214,10.605-7.193S2638.714,319.407,2638.714,319.407Z" transform="translate(-2576.089 -291.522)"/>
+        <path id="Path_41" data-name="Path 41" class="cls-6" d="M2589.11,319.407s-.331,2.264-5.255,5.168c-2.261,1.334-15.013,6.088-24.69,11.259-6.723,3.593-10.931,5.337-10.552,9.783s6.638,6.377,18.257,12.287c0,0,13.259,6.191,20.689,11.056s9.027,8.4,9.027,8.4,1.769-2.606-1.85-8.845c-4.926-7.329-14.179-11.078-14.179-11.078l-23.679-12.517,19.509-9.089s7.324-3.214,10.606-7.194S2589.11,319.407,2589.11,319.407Z" transform="translate(-2526.484 -305.174)"/>
+        <path id="Path_42" data-name="Path 42" class="cls-6" d="M2552.855,319.407s-.56,2.305-5.071,4.431c0,0-12.964,6.2-33.2,15.783-20.171,8.859-25.658,28.321,1.065,38.923,5.421,3.137,23.365,11.527,34.063,18.983a23.545,23.545,0,0,1,10.431,18.552s4.072-12.668-2.086-19.961c-6.39-9.15-25.561-15.25-38.969-23.233-7.747-3.479-12.948-6.519-14.188-13.367-1.155-5.341,7.164-10.672,16.237-15.256,9.114-4.6,14.527-7.053,14.527-7.053s11.79-4.589,15.072-8.569S2552.855,319.407,2552.855,319.407Z" transform="translate(-2490.229 -319.407)"/>
+        <path id="Path_40-2" data-name="Path 40" class="cls-6" d="M20.214,0s-.331,2.264-5.255,5.168S0,12.314,0,12.314l7.491,4.114S14.814,13.214,18.1,9.235,20.214,0,20.214,0Z" transform="translate(28.823 109.453) rotate(180)"/>
+        <path id="Path_41-2" data-name="Path 41" class="cls-6" d="M40.521,0s-.331,2.264-5.255,5.168C33.005,6.5,20.253,11.256,10.576,16.428,3.853,20.021-.355,21.764.024,26.21S6.662,32.587,18.281,38.5c0,0,13.26,6.191,20.689,11.056S48,57.957,48,57.957s1.769-2.606-1.85-8.845c-4.926-7.329-14.18-11.078-14.18-11.078L8.289,25.517,27.8,16.429S35.121,13.214,38.4,9.235,40.521,0,40.521,0Z" transform="translate(49.13 123.105) rotate(180)"/>
+        <path id="Path_42-2" data-name="Path 42" class="cls-6" d="M55.363,0s-.56,2.305-5.071,4.431c0,0-12.965,6.2-33.2,15.783C-3.079,29.074-8.566,48.536,18.157,59.138,23.578,62.275,41.521,70.665,52.22,78.12A23.544,23.544,0,0,1,62.652,96.672S66.723,84,60.566,76.711C54.175,67.561,35,61.461,21.6,53.478,13.85,50,8.648,46.959,7.409,40.112,6.255,34.77,14.573,29.44,23.647,24.856c9.113-4.6,14.526-7.053,14.526-7.053s11.789-4.589,15.072-8.569S55.363,0,55.363,0Z" transform="translate(63.972 137.338) rotate(180)"/>
+      </g>
+    </g>
+  </g>
+</svg>
